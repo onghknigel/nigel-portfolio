@@ -1,0 +1,46 @@
+.main-information {
+
+    border-style: solid;
+    border-width: 3px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.about-picture {
+    text-align: center
+
+
+
+}
+
+.about-nigel {
+    border-style: dashed; 
+    padding: 15px;
+    box-sizing: border-box;
+    width: 30%;
+    display: inline-block;
+    overflow: auto;
+}
+
+.qualifications {
+    border-style: dashed; 
+    padding: 15px;
+    box-sizing: border-box;
+    width: 30%;
+    display: inline-block;
+    
+}
+
+
+.experience {
+    border-style: dashed; 
+    padding: 15px;
+    box-sizing: border-box;
+    width: 30%;
+    display: inline-block;
+
+
+
+
+}
